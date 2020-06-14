@@ -1,0 +1,8 @@
+[Unit]
+Description=Disable C6 and enable C7
+
+[Service]
+ExecStart=/usr/bin/c6offc7on.sh
+
+[Install]
+WantedBy=multi-user.target

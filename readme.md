@@ -1,3 +1,5 @@
+This fork is to turn original workaround in .deb package
+
 # Intel-bay-trail-freeze-workarround
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/3429ae89d23a46c98f936934c46fe933)](https://app.codacy.com/app/stesee/Intel-bay-trail-freeze-workarround?utm_source=github.com&utm_medium=referral&utm_content=Codeuctivity/Intel-bay-trail-freeze-workarround&utm_campaign=Badge_Grade_Settings)

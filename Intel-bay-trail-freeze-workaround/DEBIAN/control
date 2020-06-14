@@ -1,0 +1,10 @@
+Package: intel-bay-trail-freeze-workaround
+Version: 1.0.0-1big1
+Depends:
+Architecture: all
+Maintainer: Bruno Goncalves <www.biglinux.com.br>
+Section: admin
+Priority: optional
+Installed-Size:
+Description: Deactivate c6* states to prevent a freezing some intel processors, original script from https://github.com/Codeuctivity/Intel-bay-trail-freeze-workarround
+
